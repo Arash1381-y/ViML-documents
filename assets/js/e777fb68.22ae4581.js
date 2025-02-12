@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkviml_documents=self.webpackChunkviml_documents||[]).push([[4483],{2145:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ViML-documents/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
